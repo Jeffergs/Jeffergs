@@ -29,7 +29,7 @@
 </div>
 
 
-### Operating systems I have experience with:
+### Operating systems i have experience with:
 <div style="display: inline_block"><br/>
 <img align="center" alt="Windows" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="center" alt="Linux Mint" src = "https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
