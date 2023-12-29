@@ -14,7 +14,6 @@
 <img align="center" alt="Javascript" src = https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
 <img align="center" alt="C sharp" src = https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white />
 <img align="center" alt=".Net" src = 	https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white />
-  
 </div>
 
 
@@ -27,9 +26,11 @@
 <img align="center" alt="Miro" src = "https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" />
 <img align="center" alt="Trello" src = "https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <img align="center" alt="Microsoft Teams" src = "https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
-
-  
 </div>
+
+
+Operating systems I have experience with:
+
 
 
 ###### Estudante do curso de Análise e Desenvolvimento de Sistemas na FIAP.
