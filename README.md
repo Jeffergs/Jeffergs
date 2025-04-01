@@ -3,8 +3,13 @@
 > 🚀 Desenvolvedor Backend | 💡 Entusiasta de Fintechs | 🎨 Apaixonado por UX e Front-end
 
 ---
-
 ![Banner](https://your-image-url.com) <!-- Substitua pelo link de uma imagem de banner personalizada -->
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jeffergs&theme=dark)](https://git.io/streak-stats)
+
+
+
 
 📍 **Localização:** São Paulo, Brasil  
 🎓 **Educação:** Análise e Desenvolvimento de Sistemas - FIAP <br>
