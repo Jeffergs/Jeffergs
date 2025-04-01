@@ -6,11 +6,11 @@
 
 ![Banner](https://your-image-url.com) <!-- Substitua pelo link de uma imagem de banner personalizada -->
 
-📍 **Localização:** Cidade, País  
-🎓 **Educação:** [Curso] @ [Universidade]  
+📍 **Localização:** São Paulo, Brasil  
+🎓 **Educação:** Análise e Desenvolvimento de Sistemas - FIAP <br>
 💼 **Atualmente:** [Cargo] @ [Empresa]  
-🛠️ **Tech Stack:** Java | Spring Boot | Python | Linux | Docker | Kubernetes  
-🎯 **Foco:** Engenharia de Software, Automação e Arquitetura de Sistemas  
+🛠️ **Tech Stack:** Java | Python | Linux |  | Kubernetes  
+🎯 **Foco:** Engenharia de Software, Desenvolvimento Backend 
 📫 **Contato:** [Email] | [LinkedIn] | [Portfólio]
 
 ---
@@ -18,10 +18,12 @@
 ## 🚀 Minhas Habilidades
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,docker,kubernetes,git,linux" width="450" />
+  <img src="https://skillicons.dev/icons?i=java,python,git,linux" width="450" />
 </div>
 
 ---
+
+
 
 ## 📌 Projetos Destacados
 
