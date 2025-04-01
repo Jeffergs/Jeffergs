@@ -1,4 +1,4 @@
-![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Jefferson.;Seja+bem+vindo+ao+meu+GitHub.;&center=true&vCenter=true&size=45&width=1000&color=#36BCF7FF&font='Poppins')
+ter=True![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Jefferson.;Seja+bem+vindo+ao+meu+GitHub.;&center=true&vCenter=true&size=45&width=1000&color=#36BCF7FF&font='Poppins')
 
 
 > 🚀 Desenvolvedor Backend | 💡 Entusiasta de Fintechs | 🎨 Apaixonado por UX e Front-end
@@ -7,7 +7,12 @@
 ![Banner](https://your-image-url.com) <!-- Substitua pelo link de uma imagem de banner personalizada -->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jeffergs&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?center=True&user=Jeffergs&theme=dark" alt="GitHub Streak">
+  </a>
+</p>
+
 
 
 
