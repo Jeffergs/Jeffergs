@@ -1,10 +1,13 @@
+![Header](./images/banner.png)
+
 ![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Jefferson.;Seja+bem+vindo+ao+meu+GitHub.;&center=true&vCenter=true&size=45&width=1000&color=#36BCF7FF&font='Poppins')
 
 
 > 🚀 Desenvolvedor Backend | 💡 Entusiasta de Fintechs | 🎨 Apaixonado por UX e Front-end
 
 ---
-![Banner](https://your-image-url.com) <!-- Substitua pelo link de uma imagem de banner personalizada -->
+
+<!-- Substitua pelo link de uma imagem de banner personalizada -->
 
 
 <p align="center">
