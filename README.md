@@ -22,7 +22,7 @@
 
 📍 **Localização:** São Paulo, Brasil  
 🎓 **Educação:** Análise e Desenvolvimento de Sistemas - FIAP <br>
-💼 **Atualmente:** [Cargo] @ [Empresa]  
+💼 **Atualmente:** [Cargo] @ [Empres]  
 🛠️ **Tech Stack:** Java | Python | Linux |  | Kubernetes  
 🎯 **Foco:** Engenharia de Software, Desenvolvimento Backend 
 📫 **Contato:** [Email] | [LinkedIn] | [Portfólio]
