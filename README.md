@@ -1,7 +1,11 @@
+
 ![Header](./images/Banner2.png)
 
-![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!;Seja+bem+vindo+ao+meu+GitHub.;&center=true&vCenter=true&size=45&width=1000&color=#36BCF7FF&font='Poppins')
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!;Seja+bem+vindo+ao+meu+GitHub.;&center=true&vCenter=true&size=45&width=1000&color=#36BCF7FF&font=Honk&size)
 
+
+[![TridentifyIshaan's GitHub | Stats](https://stats.quine.sh/TridentifyIshaan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TridentifyIshaan)
+<img align="right" alt="coding" height="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <!-- Substitua pelo link de uma imagem de banner personalizada -->
 
@@ -14,7 +18,7 @@
 
 
 
-
+<h2> <img src="https://github.com/HalemoGPA/HalemoGPA/blob/main/images/Developer.gif" alt="developer gif"  height="28px"> About me </h2>
 
 📍 **Localização:** São Paulo, Brasil  
 🎓 **Educação:** Análise e Desenvolvimento de Sistemas - FIAP <br>
@@ -23,9 +27,10 @@
 🎯 **Foco:** Engenharia de Software, Desenvolvimento Backend 
 📫 **Contato:** [Email] | [LinkedIn] | [Portfólio]
 
+
 ---
 
-## 🚀 Minhas Habilidades
+<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> Skills </h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,git,linux" width="450" />
@@ -33,9 +38,12 @@
 
 ---
 
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-
-## 📌 Projetos Destacados
+<!--<p align="center">
+<img src="https://i.ibb.co/QPmHs8r/projects.gif"> -->
+<h2> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Projetos Destacados </h2>
 
 ### 💰 **[Nome do Projeto Fintech](https://github.com/seu-usuario/nome-do-projeto)**
 > *Plataforma para controle financeiro com análise de dados e automação de investimentos.*
@@ -51,11 +59,12 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 28px> Github Stats  </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeffergs&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Jeffergs&theme=radical" width="400" />
+  <img src=https://github-readme-streak-stats.herokuapp.com/?username=Jeffergs&theme=radical)>
 </div>
 
 ---
