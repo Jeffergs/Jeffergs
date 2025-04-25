@@ -1,5 +1,5 @@
 
-![Header](./images/Banner2.png)
+![Header](./images/Banner.png)
 
 ![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!;Seja+bem+vindo+ao+meu+GitHub.;&center=true&vCenter=true&size=45&width=1000&color=#36BCF7FF&font=Honk&size)
 
