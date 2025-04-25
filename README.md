@@ -20,6 +20,23 @@
 
 <h2> <img src="https://github.com/HalemoGPA/HalemoGPA/blob/main/images/Developer.gif" alt="developer gif"  height="28px"> About me </h2>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeffergs&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffergs&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lowlighter/metrics@latest/metrics.plugin.languages.radar.svg" width="80%" />
+</p>
+
+### 📊 Radar de Linguagens
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jeffergs/Jeffergs/main/metrics.plugin.languages.radar.svg" width="80%" />
+</p>
+
+
 📍 **Localização:** São Paulo, Brasil  
 🎓 **Educação:** Análise e Desenvolvimento de Sistemas - FIAP <br>
 💼 **Atualmente:** [Cargo] @ [Empres]  
@@ -30,19 +47,24 @@
 
 ---
 
-<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> Skills </h2>
+<h1> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> Skills </h1>
 
-**Tools**
-git
-
-**Programming languages**
-python, java
-
-**IDEs**
-eclipse, pycharm, vscode
+<h3 align="center"> Tools </h3> 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,linux" width="450" />
+  <img src="https://skillicons.dev/icons?i=git,figma,linux" width="300" />
+</div>
+
+<h3 align="center"> Programming languages </h3> 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python" width="200" />
+</div>
+
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  -->
+
+<h3 align="center"> IDEs </h3> 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=eclipse,pycharm,vscode" width="300" />
 </div>
 
 ---
@@ -78,45 +100,16 @@ eclipse, pycharm, vscode
 
 ---
 
-## 🌍 Conecte-se Comigo
+## 🌍 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+<div align="center">
 
----
+<a href="mailto:jeffersongs1195@gmail.com">
+<img align="center"  height="100" width="100" src="https://github.com/user-attachments/assets/3fdfe405-61cf-47df-8445-40d2207778d3">
+</a>
 
-⭐ **Dê uma estrela nos meus repositórios favoritos!**
+<a  href="https://www.linkedin.com/in/jefferson-g-silva?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target=_blank>
+<img align="center"  height="100" width="100" src="https://github.com/user-attachments/assets/1b7744ff-9c78-43d9-b5d3-006e61132670">
+</a>
 
-```diff
-+ Obrigado por visitar meu perfil! Vamos construir algo incrível juntos. 🚀
-
-
-
-
-<!--### Olá! Eu sou o Jefferson Gomes Silva ✌️
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jefferson-g-silva)
-
-
-![Jeffergs GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffergs&show_icons=true&theme=algolia)
-
-### I have knowledge in:
-<div style="display: inline_block"><br/>
-
-<img align="center" alt="Java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-</div>
-
-
-### I have experience in:
-<div style="display: inline_block"><br/>
-<img align="center" alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-<img align="center" alt="Java" src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
-
-
-</div>
--->
-
-
+</div> <br>
