@@ -68,8 +68,15 @@
 </div>
 
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Jeffergs&theme=dark" width="48%" alt="GitHub Streak" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeffergs&show_icons=true&theme=tokyonight&hide_border=true" width="47%" alt="GitHub Stats" />
+</div>
 
-<p align="left">
+
+ <!-- <!<p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?center=True&user=Jeffergs&theme=dark" alt="GitHub Streak"
       width="48%" >
@@ -82,9 +89,9 @@
     </p>    
     
     <p>
-    username=Jeffergs&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
--->
+    username=Jeffergs&layout=compact&theme=tokyonight&hide_border=true" width="49%" /> 
+</p> -->
+
 
 <!--  <p align="center">
   <img src="https://raw.githubusercontent.com/lowlighter/metrics@latest/metrics.plugin.languages.radar.svg" width="80%" />
