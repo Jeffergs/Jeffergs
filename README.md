@@ -62,11 +62,6 @@
 
 <h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 28px> Github Stats  </h2>
 
-<div align="center">  
-<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Jeffergs&theme=radical" width="400" /> -->
-<!--   <img src=https://github-readme-streak-stats.herokuapp.com/?username=Jeffergs&theme=radical)" width="400" /> -->
-</div>
-
 
 <div align="center">
   <a href="https://git.io/streak-stats">
