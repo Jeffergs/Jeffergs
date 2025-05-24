@@ -23,9 +23,9 @@
   <img src="https://skillicons.dev/icons?i=git,figma,linux" width="300" />
 </div>
 
-<h3 align="center"> Programming languages </h3> 
+<h3 align="center"> Languages </h3> 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python" width="200" />
+  <img src="https://skillicons.dev/icons?i=java,python,html" width="300" />
 </div>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  -->
