@@ -20,7 +20,7 @@
 <h3 align="center"> Tools </h3> 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,linux" width="300" />
+  <img src="https://skillicons.dev/icons?i=git,figma,linux,bootstrap" width="400" />
 </div>
 
 <h3 align="center"> Languages </h3> 
