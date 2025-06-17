@@ -31,7 +31,7 @@
 <h3 align="center"> Frameworks </h3> 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="100" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="90" />
 </div>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  -->
