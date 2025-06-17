@@ -20,7 +20,7 @@
 <h3 align="center"> Tools </h3> 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,linux" width="300" />
+  <img src="https://skillicons.dev/icons?i=git,figma,linux" width="300" /> &nbsp; <img src="https://github.com/user-attachments/assets/d1681fdd-31da-49a5-8090-0fe40d6b4e03" alt="datamodeler" width="112">
 </div>
 
 <h3 align="center"> Languages </h3> 
