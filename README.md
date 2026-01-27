@@ -1,10 +1,10 @@
 
 ![Header](./images/banner.png)
 
-![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!;Bem vindo ao meu perfil do GitHub.;&center=true&vCenter=true&size=45&width=1000&color=#36BCF7FF&font=Honk&size)
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!;Bem+vindo+ao+meu+perfil+do+GitHub.;&center=true&vCenter=true&size=45&width=1000&color=#36BCF7FF&font=Honk&size)
 
 <br>
-<h2> <img src="https://github.com/HalemoGPA/HalemoGPA/blob/main/images/Developer.gif" alt="developer gif"  height="28px"> About me </h2> 
+<h2> <img src="https://github.com/HalemoGPA/HalemoGPA/blob/main/images/Developer.gif" alt="developer gif"  height="28px"> Sobre mim </h2> 
 
 <!-- <img align="right" alt="coding" height="100" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
 
@@ -13,7 +13,7 @@
 
 
 
-<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> Skills </h2>
+<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> Habilidades </h2>
 
 <h3 align="center"> Ferramentas </h3> 
 
@@ -23,7 +23,7 @@
 
 <h3 align="center"> Linguagens </h3> 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript" width="500" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript" width="400" />
 </div>
 
 <h3 align="center"> Frameworks </h3> 
@@ -36,7 +36,7 @@
 
 <h3 align="center"> IDEs </h3> 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=eclipse,pycharm,vscode" width="300" />
+  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode" width="300" />
 </div>
 <br> 
 
@@ -68,10 +68,24 @@
 
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Jeffergs&theme=dark" width="48%" alt="GitHub Streak" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeffergs&show_icons=true&theme=tokyonight&hide_border=true" width="47%" alt="GitHub Stats" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffergs&layout=compact&langs_count=10&text_color=ffffff&theme=midnight-purple&hide_border=true&show_icons" 
+      height="200em"
+    />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Jeffergs&theme=tokyonight&hide_border=true&show_icons"
+      media="(prefers-color-scheme: dark)"
+      height="200em"
+    />
+    <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Jeffergs&theme=tokyonight&hide_border=true&show_icons"
+    media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Jeffergs&theme=tokyonight_border=true&show_icons"
+    />
+  </picture>
 </div>
 
 
@@ -104,7 +118,7 @@
 -->
 <br> <br>
 
-## 🌍 Connect with me
+## 🌍 Conecte-se comigo
 
 <div align="center">
 
