@@ -1,28 +1,27 @@
 
 ![Header](./images/banner.png)
 
-![Apresentação](https://readme-typing-svg.demolab.com/?lines=Hello!;Welcome+to+my+Github+profile.;&center=true&vCenter=true&size=45&width=1000&color=#36BCF7FF&font=Honk&size)
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!;Bem vindo ao meu perfil do GitHub.;&center=true&vCenter=true&size=45&width=1000&color=#36BCF7FF&font=Honk&size)
 
 <br>
 <h2> <img src="https://github.com/HalemoGPA/HalemoGPA/blob/main/images/Developer.gif" alt="developer gif"  height="28px"> About me </h2> 
 
 <!-- <img align="right" alt="coding" height="100" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
 
-📍 **Location:** São Paulo, Brazil  
-🎓 **Education:** Bachelor’s Degree in Software Engineer in FIAP. Expected completion: July 2029. <br>
-💼 **Currently:** Working outside my field (Receptionist) at ICESP (https://icesp.org.br/) <br> <br> 
+📍 **Localização:** São Paulo - SP  
+🎓 **Escolaridade:** Bacharelado em Engenharia de Software na FIAP. Expectativa de conclusão: Julho de 2029. <br>
 
 
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> Skills </h2>
 
-<h3 align="center"> Tools </h3> 
+<h3 align="center"> Ferramentas </h3> 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,figma,linux" width="300" /> &nbsp; <img src="https://github.com/user-attachments/assets/d1681fdd-31da-49a5-8090-0fe40d6b4e03" alt="datamodeler" width="112">
 </div>
 
-<h3 align="center"> Languages </h3> 
+<h3 align="center"> Linguagens </h3> 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript" width="500" />
 </div>
