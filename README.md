@@ -23,17 +23,19 @@
 </div>
 
 <h3 align="center"> Linguagens </h3> 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="90 alt="Java"/>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="90" alt="Java" />
+  <img src="https://github.com/user-attachments/assets/2504ef3d-dacc-481e-80a6-a96c29a5d459" width="100" alt="HTML 5" />
   <img src="https://skillicons.dev/icons?i=html,css" width="200" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="110"/>
-</div>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="110" alt="JS" />
+</p>
 
 <h3 align="center"> Frameworks </h3> 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap" width="90" />
 </div>
+
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  -->
 
