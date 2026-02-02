@@ -24,9 +24,9 @@
 
 <h3 align="center"> Linguagens </h3> 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="90" alt="Java" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="87" alt="Java" />
   <img src="https://github.com/user-attachments/assets/2504ef3d-dacc-481e-80a6-a96c29a5d459" width="100" alt="HTML 5" />
-  <img src="https://skillicons.dev/icons?i=css" width="90" />
+  <img src="https://github.com/user-attachments/assets/fb984661-5eb7-4d08-b4a6-6c07e884a159" width="115" alt="CSS" />  
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="110" alt="JS" />
 </p>
 
