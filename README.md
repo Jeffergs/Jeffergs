@@ -72,7 +72,7 @@
 
 - #### 🌟 **[SkillsUp](https://github.com/Jeffergs/SkillsUp--Plataforma-colaborativa-de-aprendizagem) - Plataforma colaborativa de aprendizagem**
  
-- #### <img width="15px" alt="image" src="https://github.com/user-attachments/assets/20dfe392-802c-461e-b82b-ada7ed63dbac"/> **[Agroviva web](https://github.com/Jeffergs/agroviva-web) - Plataforma que conecta agricultores familiares a pessoas de baixa renda**
+- #### <img width="15px" alt="image" src="https://github.com/user-attachments/assets/20dfe392-802c-461e-b82b-ada7ed63dbac"/> **[Agroviva web](https://github.com/Jeffergs/agroviva-web) - Plataforma colaborativa que conecta agricultores familiares a em situação de vulnerabilidade alimentar**
 
 <br>
 
