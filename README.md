@@ -18,8 +18,9 @@
 <h3 align="center"> Ferramentas </h3> 
 
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=git,figma,linux" width="300" /> &nbsp;
-  <img src="https://github.com/user-attachments/assets/d1681fdd-31da-49a5-8090-0fe40d6b4e03" alt="datamodeler" width="112">
+  <img src="https://skillicons.dev/icons?i=git,figma,linux,postman,gradle," width="500" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=api," width="150" />
+  <img src="https://github.com/user-attachments/assets/d1681fdd-31da-49a5-8090-0fe40d6b4e03" alt="datamodeler" width="105" />
 </div>
 
 <h3 align="center"> Linguagens </h3> 
@@ -33,10 +34,14 @@
 <h3 align="center"> Frameworks </h3> 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="90" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="92" alt="react"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap,react,vite,spring" width="400" />
 </div>
 
+<h3 align="center"> Bancos de dados</h3> 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" width="200" />
+</div>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  -->
 
