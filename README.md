@@ -19,7 +19,7 @@
 
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=git,figma,linux,postman,maven,gradle,docker" width="700" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=api" width="90" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=api,sonarqube" width="180" />
   <img src="https://github.com/user-attachments/assets/d1681fdd-31da-49a5-8090-0fe40d6b4e03" alt="datamodeler" width="105" />
 </div>
 
