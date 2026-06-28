@@ -78,7 +78,7 @@
 
 - #### 🌟 **[SkillsUp](https://github.com/Jeffergs/SkillsUp) - Plataforma colaborativa de aprendizagem**
  
-- #### <img width="15px" alt="logo agroviva" src="https://github.com/user-attachments/assets/20dfe392-802c-461e-b82b-ada7ed63dbac"/> **[Agroviva web](https://github.com/Jeffergs/agroviva-web) - Site que conecta agricultores familiares a em situação de vulnerabilidade alimentar**
+- #### <img width="15px" alt="logo agroviva" src="https://github.com/user-attachments/assets/20dfe392-802c-461e-b82b-ada7ed63dbac"/> **[Agroviva web](https://github.com/Jeffergs/agroviva-web) - Site que conecta agricultores a famílias em situação de vulnerabilidade alimentar**
 
 - #### 🛰️ **[Kessler Shield](https://github.com/Jeffergs/kessler-shield) - Solução sustentável para capturar detritos espaciais com polímero expansível inteligente**
 
