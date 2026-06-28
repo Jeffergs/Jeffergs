@@ -1,12 +1,12 @@
 
 ![Header](./images/banner.png)
 
+<br>
+
 ![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!;Bem+vindo+ao+meu+perfil+do+GitHub.;&center=true&vCenter=true&size=45&width=1000&color=#36BCF7FF&font=Honk&size)
 
-<br>
-<h2> <img src="https://github.com/HalemoGPA/HalemoGPA/blob/main/images/Developer.gif" alt="developer gif"  height="28px"> Sobre mim </h2> 
 
-<!-- <img align="right" alt="coding" height="100" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
+<h2> <img src="https://github.com/HalemoGPA/HalemoGPA/blob/main/images/Developer.gif" alt="developer gif"  height="28px"> Sobre mim </h2> 
 
 📍 **Localização:** São Paulo - SP  
 🎓 **Escolaridade:** Bacharelado em Engenharia de Software na FIAP. Expectativa de conclusão: Julho de 2029. <br>
