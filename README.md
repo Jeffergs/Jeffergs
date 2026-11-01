@@ -24,7 +24,7 @@ Link do Projeto: https://juicers-next.vercel.app/
 <h3 align="center"> Ferramentas </h3> 
 
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=git,figma,linux,postman,gradle,docker" width="550" />
+  <img src="https://skillicons.dev/icons?i=git,figma,linux,postman,gradle,docker" width="520" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=api,sonarqube" width="180" />
   
 </div>
