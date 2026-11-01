@@ -10,7 +10,13 @@
 
 📍 **Localização:** São Paulo - SP  
 🎓 **Escolaridade:** Bacharelado em Engenharia de Software na FIAP. Expectativa de conclusão: Julho de 2029. <br>
+<img width="15"  alt="xp-frontend" src="https://github.com/user-attachments/assets/f3cd4458-20cb-4640-a440-59775b8d911d" />
+ **Experiência front-end**: Projetos acadêmicos utilizando HTML, CSS, JavaScript, React e Bootstrap <br>
+ <img width="15" alt="xp-backend" src="https://github.com/user-attachments/assets/4fc46378-e97b-4f7e-b63d-a5fd836aabd7" />
+ **Experiência back-end**: Projeto PolarisBank, uma aplicação autoral que simula uma plataforma bancária digital
 
+🥈Vice-campeão do NEXT FIAP 2026 pela equipe HighFive Tech, com o projeto Juicers, uma solução desenvolvida em equipe para monitoramento de saúde voltada a pessoas que utilizam esteroides anabolizantes, com foco na redução de danos. <br>
+Link do Projeto: https://juicers-next.vercel.app/ 
 
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> Habilidades </h2>
@@ -18,9 +24,9 @@
 <h3 align="center"> Ferramentas </h3> 
 
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=git,figma,linux,postman,maven,gradle,docker" width="700" />
+  <img src="https://skillicons.dev/icons?i=git,figma,linux,postman,gradle,docker" width="550" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=api,sonarqube" width="180" />
-  <img src="https://github.com/user-attachments/assets/d1681fdd-31da-49a5-8090-0fe40d6b4e03" alt="datamodeler" width="105" />
+  
 </div>
 
 <h3 align="center"> Linguagens </h3> 
@@ -38,16 +44,25 @@
 </div>
 
 <h3 align="center"> Bancos de dados</h3> 
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" width="200" />
+  <img src="https://github.com/user-attachments/assets/d1681fdd-31da-49a5-8090-0fe40d6b4e03" alt="datamodeler" width="125" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="105" />  
+  <img src="https://github.com/user-attachments/assets/2922800a-ecb8-4a6c-a747-0efc2a397a76" width="110" alt="flyway" />
+
+</div>
+
+<h3 align="center"> Testes</h3> 
+<div align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=junit" width="105" />  
+  <img src="https://github.com/user-attachments/assets/a6a44508-27cc-44f9-b324-7ef879497970" width="105" alt="mockito" />
+  <img src="https://skills.syvixor.com/api/icons?i=testcontainers" width="105" alt="Testcontainers" />
 </div>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  -->
 
 <h3 align="center"> IDEs </h3> 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode" width="300" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode" width="200" />
 </div>
 <br> 
 
