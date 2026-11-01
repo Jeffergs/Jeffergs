@@ -66,36 +66,18 @@ Link do Projeto: https://juicers-next.vercel.app/
 </div>
 <br> 
 
-<!--   --- -->
+<h2> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width = 45px> Projetos em destaque  </h2>
 
-<!--<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-<!--<p align="center">
-<img src="https://i.ibb.co/QPmHs8r/projects.gif"> 
-<h2> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Projetos Destacados </h2>
+- #### <img src="https://github.com/user-attachments/assets/41691827-67e9-4ebf-81b5-d2f4e032309c" width="15px" alt="juicers"/> [Juicers](https://github.com/Jeffergs/Juicers) - Redução de danos para usuários de esteroides anabolizantes
 
-> *Plataforma para controle financeiro com análise de dados e automação de investimentos.*
-- 🔹 Tecnologias: Java, Spring Boot, PostgreSQL, Docker
-- 📈 Funcionalidades: Gestão de receitas e despesas, gráficos interativos, integração com APIs financeiras
-- 🚀 [Acesse o repositório](https://github.com/seu-usuario/nome-do-projeto)
-
-### 🤖 **[Nome do Projeto de Automação](https://github.com/seu-usuario/nome-do-projeto-automacao)**
-> *Automação de processos no sistema Tasy usando Python e Selenium.*
-- 🔹 Tecnologias: Python, Selenium, Pandas
-- 🤖 Automatização de agendamentos médicos
-- 🚀 [Acesse o repositório](https://github.com/seu-usuario/nome-do-projeto-automacao)
-
----
--->
-
-<h2> <img src = "https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width = 45px> Projetos em destaque  </h2>
+- #### 🛰️ **[Kessler Shield](https://github.com/Jeffergs/kessler-shield) - Solução sustentável para capturar detritos espaciais com polímero expansível inteligente**
 
 - #### 🌟 **[SkillsUp](https://github.com/Jeffergs/SkillsUp) - Plataforma colaborativa de aprendizagem**
  
-- #### <img width="15px" alt="logo agroviva" src="https://github.com/user-attachments/assets/20dfe392-802c-461e-b82b-ada7ed63dbac"/> **[Agroviva web](https://github.com/Jeffergs/agroviva-web) - Site que conecta agricultores a famílias em situação de vulnerabilidade alimentar**
 
-- #### 🛰️ **[Kessler Shield](https://github.com/Jeffergs/kessler-shield) - Solução sustentável para capturar detritos espaciais com polímero expansível inteligente**
+
+
 
 
 <br>
