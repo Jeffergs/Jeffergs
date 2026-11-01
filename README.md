@@ -45,17 +45,17 @@ Link do Projeto: https://juicers-next.vercel.app/
 
 <h3 align="center"> Bancos de dados</h3> 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d1681fdd-31da-49a5-8090-0fe40d6b4e03" alt="datamodeler" width="125" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="105" />  
-  <img src="https://github.com/user-attachments/assets/2922800a-ecb8-4a6c-a747-0efc2a397a76" width="110" alt="flyway" />
+  <img src="https://github.com/user-attachments/assets/d1681fdd-31da-49a5-8090-0fe40d6b4e03" alt="datamodeler" width="115" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="95" />  
+  <img src="https://github.com/user-attachments/assets/2922800a-ecb8-4a6c-a747-0efc2a397a76" width="100" alt="flyway" />
 
 </div>
 
 <h3 align="center"> Testes</h3> 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=junit" width="105" />  
-  <img src="https://github.com/user-attachments/assets/a6a44508-27cc-44f9-b324-7ef879497970" width="105" alt="mockito" />
-  <img src="https://skills.syvixor.com/api/icons?i=testcontainers" width="105" alt="Testcontainers" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=junit" width="95" />  
+  <img src="https://github.com/user-attachments/assets/a6a44508-27cc-44f9-b324-7ef879497970" width="95" alt="mockito" />
+  <img src="https://skills.syvixor.com/api/icons?i=testcontainers" width="95" alt="Testcontainers" />
 </div>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  -->
