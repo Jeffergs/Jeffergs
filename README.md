@@ -53,9 +53,9 @@ Link do Projeto: https://juicers-next.vercel.app/
 
 <h3 align="center"> Testes</h3> 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=junit" width="80" />  
-  <img src="https://github.com/user-attachments/assets/a6a44508-27cc-44f9-b324-7ef879497970" width="80" alt="mockito" />
-  <img src="https://skills.syvixor.com/api/icons?i=testcontainers" width="80" alt="Testcontainers" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=junit" width="80" alt="junit-5" />  
+  <img src="https://github.com/user-attachments/assets/a6a44508-27cc-44f9-b324-7ef879497970" width="85" alt="mockito" />
+  <img src="https://github.com/user-attachments/assets/eab52aae-b28f-47ca-a645-1b82d565dcb3" width="80" alt="Testcontainers" />
 </div>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  -->
