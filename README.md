@@ -13,7 +13,7 @@
 <img width="15"  alt="xp-frontend" src="https://github.com/user-attachments/assets/f3cd4458-20cb-4640-a440-59775b8d911d" />
  **Experiência front-end**: Projetos acadêmicos utilizando HTML, CSS, JavaScript, React e Bootstrap <br>
  <img width="15" alt="xp-backend" src="https://github.com/user-attachments/assets/4fc46378-e97b-4f7e-b63d-a5fd836aabd7" />
- **Experiência back-end**: Projeto PolarisBank, uma aplicação autoral que simula uma plataforma bancária digital
+ **Experiência back-end**: Projeto [PolarisBank](https://github.com/Jeffergs/PolarisBank), uma aplicação autoral que simula uma plataforma bancária digital
 
 🥈Vice-campeão do NEXT FIAP 2026 pela equipe HighFive Tech, com o projeto Juicers, uma solução desenvolvida em equipe para monitoramento de saúde voltada a pessoas que utilizam esteroides anabolizantes, com foco na redução de danos. <br>
 Link do Projeto: https://juicers-next.vercel.app/ 
