@@ -16,7 +16,7 @@
  **Experiência back-end**: Projeto [PolarisBank](https://github.com/Jeffergs/PolarisBank), uma aplicação autoral que simula uma plataforma bancária digital
 
 🥈Vice-campeão do NEXT FIAP 2026 pela equipe HighFive Tech, com o projeto Juicers, uma solução desenvolvida em equipe para monitoramento de saúde voltada a pessoas que utilizam esteroides anabolizantes, com foco na redução de danos. <br>
-Link do Projeto: https://juicers-next.vercel.app/ 
+Deploy do Projeto: https://juicers-next.vercel.app/ 
 
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> Habilidades </h2>
