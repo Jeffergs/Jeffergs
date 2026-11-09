@@ -68,6 +68,7 @@ Deploy do Projeto: https://juicers-next.vercel.app/
 
 <h2> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width = 45px> Projetos em destaque  </h2>
 
+- #### 🏦 **[PolarisBank](https://github.com/Jeffergs/PolarisBank) - Backend bancário com Java e Spring Boot**
 
 - #### <img src="https://github.com/user-attachments/assets/41691827-67e9-4ebf-81b5-d2f4e032309c" width="15px" alt="juicers"/> [Juicers](https://github.com/Jeffergs/Juicers) - Redução de danos para usuários de esteroides anabolizantes
 
@@ -75,11 +76,6 @@ Deploy do Projeto: https://juicers-next.vercel.app/
 
 - #### 🌟 **[SkillsUp](https://github.com/Jeffergs/SkillsUp) - Plataforma colaborativa de aprendizagem**
  
-
-
-
-
-
 <br>
 
 <div align="center">
